@@ -1,4 +1,4 @@
-### <h2> Hi, I'm Aleyna <img src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif" alt="side Image" width="35" height="auto" />  &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; ![](https://komarev.com/ghpvc/?username=AleynaISIK&label=Profile%20Views&color=yellow&style=flat)</h2>
+### <h2> Hi, I'm Aleyna <img src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif" alt="side Image" width="35" height="auto" />  &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; ![](https://komarev.com/ghpvc/?username=AleynaISIK&label=Profile%20Views&color=yellow&style=flat)</h2>
 
 <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="side Image" align="right" width="350" height="auto" />
 
