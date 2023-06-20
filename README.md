@@ -6,17 +6,11 @@
 - 🌱 I’m currently learning **Swift and IOS Development**
 - 💬 Ask me about **Swift, UIKit, SwiftUI, Html, Css**
 
-
-
-
-<h3 align="left">📫 How to reach me:</h4>
+<h2 align="left">📫 How to reach me</h2>
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199045872265/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aleyna-işık-a36b981a5/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aleyna.isik.73)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/a1eyna1s1k/)  &nbsp; <a href="mailto:aleynaisik100@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
 <h4 align="left">Programming Lanugages :</h4>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -35,12 +29,9 @@
  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
- 
-
 </p>
+<br>
 
-
-
-**🔥Github Streaks**
+<h2 align="left">🔥Github Streaks</h2>
 
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AleynaISIK&hide_border=true" />
