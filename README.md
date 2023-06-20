@@ -1,5 +1,4 @@
-### Hi, I'm Aleyna<img src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif" alt="side Image" width="35" height="auto" />  &emsp; &emsp; &emsp; &emsp; ![](https://komarev.com/ghpvc/?username=AleynaISIK&label=Profile%20Views&color=blue&style=flat)
-
+### <h2> Hi, I'm Aleyna <img src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif" alt="side Image" width="35" height="auto" />  &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; ![](https://komarev.com/ghpvc/?username=AleynaISIK&label=Profile%20Views&color=yellow&style=flat)</h2>
 
 <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="side Image" align="right" width="350" height="auto" />
 
@@ -10,7 +9,7 @@
 
 
 
-<h4 align="left">📫 How to reach me:</h4>
+<h3 align="left">📫 How to reach me:</h4>
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199045872265/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aleyna-işık-a36b981a5/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aleyna.isik.73)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/a1eyna1s1k/)  &nbsp; <a href="mailto:aleynaisik100@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
