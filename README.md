@@ -3,7 +3,7 @@
   ![](https://komarev.com/ghpvc/?username=AleynaISIK&label=Profile%20Views&color=blue&style=flat)
 
 
-<img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="side Image" align="right" width="400" height="auto" />
+<img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="side Image" align="right" width="350" height="auto" />
 
 **📖About Me**
 - 🔭 I’m currently working on **Swift 5 and IOS Library**
