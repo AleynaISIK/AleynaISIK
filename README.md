@@ -19,15 +19,15 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 <h4 align="left">Mobile Development:</h4>
- <a href="https://wikimedia.org/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/company+ios+ipad+iphone+logo+technology+icon-1320192795152509008.png" alt="unity" width="40" height="40"/> </a>
+ <a href="https://wikimedia.org/" target="_blank"> <img src="https://icons-for-free.com/iff/png/512/company+ios+ipad+iphone+logo+technology+icon-1320192795152509008.png" alt="unity" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
 <h4 align="left">Tools:</h4>
-<a href="https://www.mamp.info/en/mamp-pro/mac/" target="_blank" rel="noreferrer"> <img src="https://dl2.macupdate.com/images/icons256/24001.png?time=1629182091" alt="mamp" width="40" height="40"/> </a> 
+<a href="https://www.mamp.info/en/mamp-pro/mac/" target="_blank" rel="noreferrer"> <img src="https://www.mamp.info/images/icons/mamp-pro.png" alt="mamp" width="40" height="40"/> </a> 
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+ <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a> 
  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 </p>
 <br>
